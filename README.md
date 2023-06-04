@@ -24,3 +24,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+![Proje screenshot](https://github.com/tugceed/kodluyoruzilkrepo/assets/88516696/52724d3d-c1f4-4df0-a824-da3e6ef6df79)
